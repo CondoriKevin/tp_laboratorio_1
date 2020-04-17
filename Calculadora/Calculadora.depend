@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587070212 source:c:\users\pc kevin\desktop\programacion de la facu\tp1_calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1587161290 source:c:\users\pc kevin\desktop\programacion de la facu\tp1_calculadora\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1587161909 c:\users\pc kevin\desktop\programacion de la facu\tp1_calculadora\calculadora\calculadora.h
+
