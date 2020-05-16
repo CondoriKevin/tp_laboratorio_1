@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589408261 source:c:\users\pc kevin\desktop\programacion de la facu\tp2_empresa\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589426287 source:c:\users\pc kevin\desktop\programacion de la facu\tp2_empresa\tp_laboratorio_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+
+1589414002 c:\users\pc kevin\desktop\programacion de la facu\tp2_empresa\tp_laboratorio_2\utn.h
+
+1589425600 source:c:\users\pc kevin\desktop\programacion de la facu\tp2_empresa\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589490010 c:\users\pc kevin\desktop\programacion de la facu\tp2_empresa\tp_laboratorio_2\arrayemployees.h
+
